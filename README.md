@@ -57,6 +57,8 @@ I am a Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpO
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gazda-dev&theme=dark)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gazda-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000832.a1698690891a4252bb4d7ce7b4d5a0fb.2156)](https://github.com/rayriffy/apple-music-github-profile)  
   
 </div>
 
