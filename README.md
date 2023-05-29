@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://seeklogo.com/images/U/unreal-technology-logo-49AA355984-seeklogo.com.png" width="200"/>
-  
   <div id="badges">
 
   <a href="your-linkedin-URL">
