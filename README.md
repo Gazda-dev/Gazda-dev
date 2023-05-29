@@ -2,7 +2,7 @@
   <img src="https://seeklogo.com/images/U/unreal-technology-logo-49AA355984-seeklogo.com.png" width="200"/>
   <div id="badges">
 
-  <a href="https://www.linkedin.com/in/karol-ga%C5%BAdzicki-683333268/">
+  <a href="https://www.linkedin.com/in/karol-ga%C5%BAdzicki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@gazda-dev/videos">
@@ -19,12 +19,14 @@
 ### :woman_technologist: About Me :
 I am a Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karol-ga%C5%BAdzicki-683333268/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karol-ga%C5%BAdzicki/)
   
 ---
 
 ### :hammer_and_wrench: My projects
 
+<div align="center">
+  
 |Name|Description|Stack|
 |----|-----------|--------|
 |[Rooftop Runner](https://github.com/Gazda-dev/RunnerGame)|[YouTube](https://www.youtube.com/watch?v=A5IPgAzCOzI&ab_channel=gazda-dev) [GameJolt](https://gamejolt.com/games/rooftopracer/808627) My first parkour-type game from scratch|UE5, C++|
@@ -33,7 +35,7 @@ I am a Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpO
 |[ToonTanks](https://github.com/Gazda-dev/ToonTanks2)|[YouTube](https://youtu.be/Uj8kgOU6mtE) Tanks game from course|UE5, C++|
 |[Shooter Game](https://github.com/Gazda-dev/CS3_2)|[YouTube](https://youtu.be/408JN8eHMyA) Shooter game from course|UE5, C++|
 |[Crypt Raider](https://github.com/Gazda-dev/CryptRaider)|[YouTube](https://youtu.be/5l4QZd8QiuA) Crypt Raider game from course|UE5, C++|
-
+</div>
 
 ---
 
