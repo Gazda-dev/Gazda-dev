@@ -30,7 +30,7 @@ I am a Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpO
 |Name|Description|Stack|
 |----|-----------|--------|
 |[Rooftop Runner](https://github.com/Gazda-dev/RunnerGame)|[YouTube](https://www.youtube.com/watch?v=A5IPgAzCOzI&ab_channel=gazda-dev) [GameJolt](https://gamejolt.com/games/rooftopracer/808627) My first parkour-type game from scratch|UE5, C++|
-|[Tower Defense Game](https://github.com/Gazda-dev/TowerDefenseGame)|[YouTube]() Fun tower defense game|UE5, C++|
+|[Tower Defense Game](https://github.com/Gazda-dev/TowerDefenseGame)|[YouTube](https://youtu.be/kXYyIAdqT6M) Fun tower defense game|UE5, C++|
 |[OpenWorld Game](https://github.com/Gazda-dev/OpenWorld)|[YouTube](https://youtu.be/WeldX-m-Lp4) Open World game from course|UE5, C++|
 |[ToonTanks](https://github.com/Gazda-dev/ToonTanks2)|[YouTube](https://youtu.be/Uj8kgOU6mtE) Tanks game from course|UE5, C++|
 |[Shooter Game](https://github.com/Gazda-dev/CS3_2)|[YouTube](https://youtu.be/408JN8eHMyA) Shooter game from course|UE5, C++|
