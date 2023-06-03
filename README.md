@@ -31,7 +31,7 @@ I am a Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpO
 |----|-----------|--------|
 |[Rooftop Runner](https://github.com/Gazda-dev/RunnerGame)|[YouTube](https://www.youtube.com/watch?v=A5IPgAzCOzI&ab_channel=gazda-dev) [GameJolt](https://gamejolt.com/games/rooftopracer/808627) My first parkour-type game from scratch|UE5, C++|
 |[Tower Defense Game](https://github.com/Gazda-dev/TowerDefenseGame)|[YouTube](https://youtu.be/kXYyIAdqT6M) Fun tower defense game|UE5, C++|
-|[OpenWorld Game](https://github.com/Gazda-dev/OpenWorld)|[YouTube](https://youtu.be/WeldX-m-Lp4) Open World game from course|UE5, C++|
+|[OpenWorld Game](https://github.com/Gazda-dev/OpenWorld)|[YouTube](https://youtu.be/WeldX-m-Lp4) Huge open world game from course (still in develop) |UE5, C++|
 |[ToonTanks](https://github.com/Gazda-dev/ToonTanks2)|[YouTube](https://youtu.be/Uj8kgOU6mtE) Tanks game from course|UE5, C++|
 |[Shooter Game](https://github.com/Gazda-dev/CS3_2)|[YouTube](https://youtu.be/408JN8eHMyA) Shooter game from course|UE5, C++|
 |[Crypt Raider](https://github.com/Gazda-dev/CryptRaider)|[YouTube](https://youtu.be/5l4QZd8QiuA) Crypt Raider game from course|UE5, C++|
@@ -54,7 +54,7 @@ I am a Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gazda-dev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gazda-dev&theme=sunset-gradient)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gazda-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
