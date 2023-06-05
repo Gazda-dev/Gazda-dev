@@ -35,6 +35,7 @@ I am a Unreal Engine Developer <img src="https://media.giphy.com/media/WUlplcMpO
 |[ToonTanks](https://github.com/Gazda-dev/ToonTanks2)|[YouTube](https://youtu.be/Uj8kgOU6mtE) Tanks game from course|UE5, C++|
 |[Shooter Game](https://github.com/Gazda-dev/CS3_2)|[YouTube](https://youtu.be/408JN8eHMyA) Shooter game from course|UE5, C++|
 |[Crypt Raider](https://github.com/Gazda-dev/CryptRaider)|[YouTube](https://youtu.be/5l4QZd8QiuA) Crypt Raider game from course|UE5, C++|
+|FPS|[YouTube](https://youtu.be/8W0XGkMe8Q0) FPS made only with blueprints|UE5, Blueprints|
 </div>
 
 ---
